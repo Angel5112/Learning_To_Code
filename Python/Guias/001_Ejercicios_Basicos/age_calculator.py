@@ -4,14 +4,14 @@ Ejercicio 4:
 Calcule la edad de una persona.
 """
 
+# Today's date
+
+YEAR = 2023
+MONTH = 7
+DAY = 26
+
 
 def age_calculator() -> None:
-
-    # Today's date
-
-    YEAR = 2023
-    MONTH = 7
-    DAY = 26
 
     # Getting the birthdate
 
