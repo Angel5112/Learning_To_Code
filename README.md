@@ -14,5 +14,5 @@ de Bases de Datos, Programación Web, Estructura del Computador e IHC.
 
 ## Créditos
 
-Solución de los ejercicios: Ángel Eduardo Patiño Sanabria
-Fuente de los ejercicios: Universidad Católica Andrés Bello y Edwin Rodriguez
+* Solución de los ejercicios: Ángel Eduardo Patiño Sanabria
+* Fuente de los ejercicios: Universidad Católica Andrés Bello y Edwin Rodriguez
