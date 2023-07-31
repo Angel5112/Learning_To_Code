@@ -15,7 +15,7 @@ diga si dos números son amigos matemáticos
 """
 
 
-def is_quadratic_friendship(x: int, y: int) -> bool: # x = 16, y = 13
+def is_quadratic_friendship(x: int, y: int) -> bool:
 
     squared_x = str(pow(x, 2))
     squared_y = str(pow(y, 2))
